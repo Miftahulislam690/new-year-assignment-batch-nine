@@ -1,0 +1,188 @@
+body {
+    font-family: "Reggae One", system-ui;
+  }
+  
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner-content{
+    width: 1320px;
+    border-radius: 16px;
+    min-height: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../new-year-offer-resources/images/Banner\ Image.png");
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: overlay;
+}
+
+.content {
+    height: 600px;
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content-two {
+    text-align: center;
+}
+
+.content-para-one {
+    font-size: 30px;
+    color: #ffff;
+}
+
+.content-para-two {
+    font-size: 70px;
+    color: #ffffff;
+}
+
+.content-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.content-description {
+    font-size: 88px;
+    color: rgb(255, 0, 0);
+}
+
+.content-description-two {
+    font-size: 27px;
+    color: rgb(255, 0, 0);
+}
+
+.holiday {
+    margin-top: 30px;
+}
+
+.all-cetagory {
+    font-size: 48px;
+    color: rgb(7, 2, 17);
+    margin-top: 25px;
+}
+
+.new-year-img { 
+    width: 900px;
+    border-radius: 16px;
+    min-height: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    justify-content: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-image: url("../new-year-offer-resources/images/New\ Year\ Photo.png");
+    margin-left: 550px;
+}
+
+.vectorr-img {
+    width: 1320px;
+    border-radius: 16px;
+    max-height: 655;
+    margin: 0 auto;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-image: url("../new-year-offer-resources/images/Vectorrr.png");
+    display: flex;
+}
+
+
+.img-title {
+    width: 53%;
+    margin-left: 25px;
+    margin: none;
+    margin-bottom: 170px;
+}
+
+.title {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin: none;
+}
+.sub-title {
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.8);
+    margin: none;
+}
+
+.join-now {
+    margin: 50px 0 0 30px;
+}
+
+.join-now-a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.img-two {
+    margin: none;
+}
+
+.img-2024 {
+    background-image: url("../new-year-offer-resources/images/2024.png");
+    width: 47%;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    width: 349.16px;
+    height: 464.65px;
+    background-position: top;
+    margin-top: 50px;
+}
+
+.poster {
+    width: 1320px;
+    border-radius: 16px;
+    min-height: 360px;
+    margin: 0 auto;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    padding-top: 140px;
+}
+
+.para span{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+
+.parent-para {
+    margin-top: 30px;
+}
+
+.para {
+    color: rgb(7, 2, 17);
+    text-align: center;
+    font-size: 30px;
+}
+
+.btn-parent {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.btn {
+    width: 167px;
+    height: 56px;
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Reggae One", system-ui;
+}
